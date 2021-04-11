@@ -1,1 +1,2 @@
 This is Chapter 1 of Story2.
+This is another version of Chapter 1.
